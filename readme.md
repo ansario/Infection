@@ -1,6 +1,6 @@
 README:
 
-This program simulates an infection of several randomly generated nodes. The nodes are part of a directed graph. All nodes without parent nodes are infected by default. A breadth-first search algorithm is employed to traverse the nodes and infect them. Nodes which are green are non-infected and nodes which are red are infected. A print out of each step can be viewed in the same direcotry as the directory from which the program was executed.
+This program simulates an infection of several randomly generated nodes. The nodes are part of a directed graph. All nodes without parent nodes are infected by default. A breadth-first search algorithm is employed to traverse the nodes and infect them. Nodes which are green are non-infected and nodes which are red are infected. A print out of each step can be viewed in the same directory as the directory from which the program was executed.
 
 This program utilizes the networkx module in Python available from https://networkx.github.io. It also uses matplotlib available from http://matplotlib.org.
 
